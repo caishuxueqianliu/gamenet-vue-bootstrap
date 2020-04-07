@@ -3,13 +3,13 @@
 
     <div id='header'>
    <div class='icon'>
-     <img src="./assets/1024.png" alt="">
+     <img src="../public/1024.png" alt="">
    </div>
    <div class='headerRight'>
  
        <div id="nav">
-      <router-link to="/">官網主頁</router-link> |
-      <router-link to="/about">隱私政策</router-link> 
+      <router-link to="/gamenet1/">官網主頁</router-link> |
+      <router-link to="/gamenet1/about">隱私政策</router-link> 
  
     </div>
    </div>

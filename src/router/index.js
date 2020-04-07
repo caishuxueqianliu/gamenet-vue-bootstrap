@@ -5,15 +5,15 @@ import Home from '../views/Home.vue'
 Vue.use(VueRouter)
 
   const routes = [
-  
+
 
   {
-    path: '/',
+    path:'/gamenet1/',
     name: 'Home',
     component: Home
   },
   {
-    path: '/about',
+    path: '/gamenet1/about',
     name: 'About',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
